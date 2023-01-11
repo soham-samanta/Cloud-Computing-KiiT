@@ -38,9 +38,9 @@ Created by : Soham Samanta
 
 ### Technologies:
 
-![AWS](https://img.shields.io/badge/-aws-000?&logo=aws)
-![c](https://img.shields.io/badge/-c-000?&logo=c&logoColor=blue)
-![Python](https://img.shields.io/badge/-python3-000?&logo=python3&logoColor=yellow)
+![AWS](https://img.shields.io/badge/-AWS-yellow)
+![c](https://img.shields.io/badge/-CLang-000?&logo=c&logoColor=68217A)
+![Python](https://img.shields.io/badge/-python-000?&logo=python&logoColor=yellow)
 
 <hr>
 
