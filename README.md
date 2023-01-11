@@ -40,7 +40,7 @@ Created by : Soham Samanta
 
 ![AWS](https://img.shields.io/badge/-AWS-yellow)
 ![c](https://img.shields.io/badge/-CLang-000?&logo=c&logoColor=68217A)
-![Python](https://img.shields.io/badge/-python-000?&logo=python&logoColor=yellow)
+![Python](https://img.shields.io/badge/-python-000?&logo=python&logoColor=violet)
 
 <hr>
 
