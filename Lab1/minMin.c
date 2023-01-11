@@ -13,10 +13,8 @@ int main(){
     scanf("%d%d", &nM, &nT);
     /*
     Declare a 2d-array of size nM x nT
-    Data should be in the following format :
-
     T1 T2 T3
-    M1 | 140 | 20 | 60 |
+    M1 | 140 | 20  | 60 |
     M2 | 100 | 100 | 70 |
 
     */
@@ -24,16 +22,15 @@ int main(){
     int minMin[nM][nT];
     int tmp[nM][nT];
     int makespan = 0;
-    printf("\nFill Data\n");
+    printf("\n*** Fill Data ***\n");
     for (int i = 0; i < nM; i++)
-        for (int j = 0; j < nT; j++)
-        {
+        for (int j = 0; j < nT; j++){
             scanf("%d", &minMin[i][j]);
             tmp[i][j] = minMin[i][j];
         }
 
-    // visualise data
-    printf("\nOriginal Data\n");
+    // visualise original data
+    printf("\n*** Original Data ***\n");
 
     for (int i = 0; i < nM; i++){
         for (int j = 0; j < nT; j++)
@@ -42,7 +39,6 @@ int main(){
     }
 
     // This array will hold the answer
-
     int resultTask[nT];
     int resultMachine[nT];
     int resultTime[nT];

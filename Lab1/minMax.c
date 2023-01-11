@@ -19,7 +19,7 @@ int main()
     Data should be in the following format :
 
     T1 T2 T3
-    M1 | 140 | 20 | 60 |
+    M1 | 140 | 20  | 60 |
     M2 | 100 | 100 | 70 |
 
     */
