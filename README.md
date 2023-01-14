@@ -45,12 +45,8 @@ Created by : Soham Samanta
 <hr>
 
 
-## &#x1f4c8; GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/soham-samanta"> 
-        <img alt="Soham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=soham-samanta&theme=chartreuse-dark&show_icons=true&count_private=true" />
+
+
 
   </tr>
 </table>
